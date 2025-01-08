@@ -1,4 +1,6 @@
-<h2 align="left">Welcome 👋! I'm Mariam Abdulhaleem.<br>Frontend developer.</h2>
+<h2 align="left">Welcome 👋!
+I'm Mariam Abdulhaleem.
+<br>Frontend Developer</h2>
 
 ###
 
