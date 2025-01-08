@@ -1,4 +1,5 @@
 <h2 align="left">Welcome 👋!
+<br>
 I'm Mariam Abdulhaleem.
 <br>Frontend Developer</h2>
 
