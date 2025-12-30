@@ -1,5 +1,5 @@
 
-I'm Mariam Abdulhaleem
+<h2>I'm Mariam Abdulhaleem
 <br>Frontend Developer</h2>
 
 ###
