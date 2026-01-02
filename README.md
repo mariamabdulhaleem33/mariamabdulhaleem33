@@ -3,7 +3,7 @@
   Hi, I'm Mariam Abdulhaleem
 </h2>
 
-<p align="center">Frontend Developer</p>
+<p align="center">Frontend Developer | ReactJS</p>
 
 <h2>About Me</h2>
 
