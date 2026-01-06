@@ -3,7 +3,7 @@
   Hi, I'm Mariam Abdulhaleem
 </h2>
 
-<p align="center">Frontend Developer | ReactJS</p>
+<h4 align="center">Frontend Developer | ReactJS</h4>
 
 <h2>About Me</h2>
 
@@ -27,6 +27,8 @@ A Frontend Developer specializing in React. I love turning designs into real, us
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
 </div>
 
 ###
