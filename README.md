@@ -10,7 +10,7 @@
 ###
 
 <p>
-A Frontend Developer specializing in React. I love turning designs into real, user-friendly screens, step by step. I enjoy bringing UI elements to life by connecting them with logic and APIs. I have hands-on experience working closely with backend and UI teams on team projects.
+A Frontend React Developer. I love turning designs into real, user-friendly screens, step by step. I enjoy bringing UI elements to life by connecting them with logic and APIs. I have hands-on experience working closely with backend and UI teams on team projects.
 </p>
 
 <h2>Skills</h2>
