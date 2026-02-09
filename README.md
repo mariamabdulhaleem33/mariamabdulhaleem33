@@ -6,13 +6,9 @@
   Frontend Developer | React & TypeScript | Building Interactive Features
 </h4>
 
----
-
 ## About Me
 
 Frontend React Developer turning designs into **interactive, working screens**. Experienced in connecting UI components with logic and APIs, collaborating with backend and UI teams on **team-based projects**.
-
----
 
 ## Skills
 
@@ -35,8 +31,6 @@ Frontend React Developer turning designs into **interactive, working screens**. 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="30" alt="postman logo"  />
 </div>
-
----
 
 ## Contact Me
 
