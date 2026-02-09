@@ -1,19 +1,20 @@
-
 <h2 align="center">
-  Hi, I'm Mariam Abdulhaleem
+  Hi, I'm Mariam Abdulhaleem 
 </h2>
 
-<h4 align="center">Frontend Developer | ReactJS</h4>
+<h4 align="center">
+  Frontend Developer | React & TypeScript | Building Interactive Features
+</h4>
 
-<h2>About Me</h2>
+---
 
-###
+## About Me
 
-<p>
-A Frontend React Developer. I love turning designs into real, user-friendly screens, step by step. I enjoy bringing UI elements to life by connecting them with logic and APIs. I have hands-on experience working closely with backend and UI teams on team projects.
-</p>
+Frontend React Developer turning designs into **interactive, working screens**. Experienced in connecting UI components with logic and APIs, collaborating with backend and UI teams on **team-based projects**.
 
-<h2>Skills</h2>
+---
+
+## Skills
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -29,13 +30,15 @@ A Frontend React Developer. I love turning designs into real, user-friendly scre
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-    <img width="12" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-    <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="30" alt="postman logo"  />
 </div>
 
-###
+---
+
+## Contact Me
 
 <div align="left">
   <a href="mailto:mariamabdulhaleem186@gmail.com" target="_blank">
@@ -46,4 +49,12 @@ A Frontend React Developer. I love turning designs into real, user-friendly scre
   </a>
 </div>
 
-###
+
+
+
+
+
+
+
+
+
